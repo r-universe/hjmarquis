@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SMMAL"]
+	path = SMMAL
+	url = https://github.com/cran/SMMAL
 [submodule "curephEM"]
 	path = curephEM
 	url = https://github.com/cran/curephEM
